@@ -6,9 +6,16 @@
 title: B-gg.com
 subtitle:
 description: Welcome to yapi.ae!
-author: Big GG
+author: yapi.ae
 language: zh-Hans
 timezone:
+
+title: yapi
+subtitle: "Dubai Institute of Blockchain Studies"
+description: "we will be a base to deploy this new technology throughout the region."
+author: Hexo
+language: en
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
