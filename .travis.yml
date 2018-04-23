@@ -1,0 +1,31 @@
+nguage: node_js
+
+node_js: stable
+
+cache:
+    apt: true
+    directories:
+        - node_modules
+
+before_install:
+    - export TZ='Asia/Shanghai'
+    - npm install hexo-cli -g
+    - chmod +x ./push.sh
+
+install:
+    - npm install
+
+script:
+    - hexo clean
+    - hexo g
+
+after_script:
+    - ./push.sh
+
+branches:
+    only:
+        - hexo
+
+env:
+    global:
+        - GH_REF: github.com/yapAE/yapAE.github.io.git
