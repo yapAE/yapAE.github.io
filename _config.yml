@@ -1,73 +1,40 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
-# Site
-title: yapi
-subtitle: "Dubai Institute of Blockchain Studies"
-description: "we will be a base to deploy this new technology throughout the region."
-author: Hexo
+title: YAPI.ae
+subtitle: "A fast, simple & powerful blog framework powered by Node.js."
+description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
+author: Yapi
 language: en
 timezone: UTC
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yapi.ae
+url: http://yap.github.io
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
-
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
 code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
 
-# Writing
-new_post_name: :title.md # File name of new posts
-default_layout: post
-titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
-filename_case: 0
-render_drafts: false
-post_asset_folder: false
-relative_link: false
-future: true
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace:
-
-# Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
-
-# Date / Time format
-## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
-
-# Pagination
-## Set per_page to 0 to disable pagination
-per_page: 10
-pagination_dir: page
-
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: navy 
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
+theme: navy
 deploy:
   type: git
-  repository: git@github.com:yapAE/yapAE.github.io.git
-  branch: master
+  repo: git@github.com:yapAE/yapAE.github.io.git
+
+highlight:
+  enable: true
+  line_number: false
+
+disqus_shortname: hexojs
+google_analytics: UA-48498357-3
+fb_admins: 100000247608790
+algolia:
+  en:
+    api_key: c3d5d4c995b5e0c2ffb5623900279a66
+    index_name: hexo
+  zh-tw:
+    api_key: c83d2ec3440f40aec6d0e695ecec7ef3
+    index_name: hexo_zh-tw
+  zh-cn:
+    api_key: cdea7d4e47d84f6145b77e7f68689f35
+    index_name: hexo_zh-cn
+twitter: hexojs
+github: hexojs/hexo
