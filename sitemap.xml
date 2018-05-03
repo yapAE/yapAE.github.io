@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/api/box.html</loc>
+    <loc>http://yap.github.io/ko/api/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.957Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/api/themes.html</loc>
+    <loc>http://yap.github.io/ko/api/box.html</loc>
     
     <lastmod>2018-04-26T10:13:51.957Z</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/api/router.html</loc>
+    <loc>http://yap.github.io/ko/api/migrator.html</loc>
     
     <lastmod>2018-04-26T10:13:51.955Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/api/migrator.html</loc>
+    <loc>http://yap.github.io/ko/api/router.html</loc>
     
     <lastmod>2018-04-26T10:13:51.955Z</lastmod>
     
@@ -170,14 +170,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/variables.html</loc>
+    <loc>http://yap.github.io/ko/docs/tag-plugins.html</loc>
     
     <lastmod>2018-04-26T10:13:51.951Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/tag-plugins.html</loc>
+    <loc>http://yap.github.io/ko/docs/variables.html</loc>
     
     <lastmod>2018-04-26T10:13:51.951Z</lastmod>
     
@@ -198,6 +198,13 @@
   </url>
   
   <url>
+    <loc>http://yap.github.io/ko/docs/plugins.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.949Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/ko/docs/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.949Z</lastmod>
@@ -212,9 +219,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/plugins.html</loc>
+    <loc>http://yap.github.io/ko/docs/configuration.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.949Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.948Z</lastmod>
     
   </url>
   
@@ -226,9 +233,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/configuration.html</loc>
+    <loc>http://yap.github.io/ko/docs/migration.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.948Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.947Z</lastmod>
     
   </url>
   
@@ -241,13 +248,6 @@
   
   <url>
     <loc>http://yap.github.io/ko/docs/writing.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.947Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/ko/docs/migration.html</loc>
     
     <lastmod>2018-04-26T10:13:51.947Z</lastmod>
     
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/generating.html</loc>
+    <loc>http://yap.github.io/ko/docs/data-files.html</loc>
     
     <lastmod>2018-04-26T10:13:51.944Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/ko/docs/data-files.html</loc>
+    <loc>http://yap.github.io/ko/docs/generating.html</loc>
     
     <lastmod>2018-04-26T10:13:51.944Z</lastmod>
     
@@ -331,14 +331,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/scaffolds.html</loc>
+    <loc>http://yap.github.io/api/posts.html</loc>
     
     <lastmod>2018-04-26T10:13:51.939Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/posts.html</loc>
+    <loc>http://yap.github.io/api/scaffolds.html</loc>
     
     <lastmod>2018-04-26T10:13:51.939Z</lastmod>
     
@@ -359,14 +359,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/themes.html</loc>
+    <loc>http://yap.github.io/api/box.html</loc>
     
     <lastmod>2018-04-26T10:13:51.936Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/box.html</loc>
+    <loc>http://yap.github.io/api/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.936Z</lastmod>
     
@@ -408,13 +408,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/locals.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.933Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/api/tag.html</loc>
     
     <lastmod>2018-04-26T10:13:51.933Z</lastmod>
@@ -422,14 +415,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/generator.html</loc>
+    <loc>http://yap.github.io/api/locals.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/api/filter.html</loc>
     
     <lastmod>2018-04-26T10:13:51.932Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/api/filter.html</loc>
+    <loc>http://yap.github.io/api/generator.html</loc>
     
     <lastmod>2018-04-26T10:13:51.932Z</lastmod>
     
@@ -457,6 +457,13 @@
   </url>
   
   <url>
+    <loc>http://yap.github.io/pt-br/api/posts.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.929Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/pt-br/api/scaffolds.html</loc>
     
     <lastmod>2018-04-26T10:13:51.929Z</lastmod>
@@ -464,9 +471,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/api/posts.html</loc>
+    <loc>http://yap.github.io/pt-br/api/processor.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.929Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.928Z</lastmod>
     
   </url>
   
@@ -479,13 +486,6 @@
   
   <url>
     <loc>http://yap.github.io/pt-br/api/console.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.928Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/pt-br/api/processor.html</loc>
     
     <lastmod>2018-04-26T10:13:51.928Z</lastmod>
     
@@ -520,13 +520,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/api/router.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.925Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/pt-br/api/migrator.html</loc>
     
     <lastmod>2018-04-26T10:13:51.925Z</lastmod>
@@ -541,9 +534,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/api/generator.html</loc>
+    <loc>http://yap.github.io/pt-br/api/router.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.924Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.925Z</lastmod>
     
   </url>
   
@@ -555,14 +548,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/api/helper.html</loc>
+    <loc>http://yap.github.io/pt-br/api/generator.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.924Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/pt-br/api/filter.html</loc>
     
     <lastmod>2018-04-26T10:13:51.923Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/api/filter.html</loc>
+    <loc>http://yap.github.io/pt-br/api/helper.html</loc>
     
     <lastmod>2018-04-26T10:13:51.923Z</lastmod>
     
@@ -660,14 +660,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/docs/permalinks.html</loc>
+    <loc>http://yap.github.io/pt-br/docs/migration.html</loc>
     
     <lastmod>2018-04-26T10:13:51.907Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/docs/migration.html</loc>
+    <loc>http://yap.github.io/pt-br/docs/permalinks.html</loc>
     
     <lastmod>2018-04-26T10:13:51.907Z</lastmod>
     
@@ -681,14 +681,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/docs/commands.html</loc>
+    <loc>http://yap.github.io/pt-br/docs/setup.html</loc>
     
     <lastmod>2018-04-26T10:13:51.905Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/pt-br/docs/setup.html</loc>
+    <loc>http://yap.github.io/pt-br/docs/commands.html</loc>
     
     <lastmod>2018-04-26T10:13:51.905Z</lastmod>
     
@@ -758,7 +758,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/api/box.html</loc>
+    <loc>http://yap.github.io/zh-tw/api/console.html</loc>
     
     <lastmod>2018-04-26T10:13:51.880Z</lastmod>
     
@@ -772,7 +772,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/api/console.html</loc>
+    <loc>http://yap.github.io/zh-tw/api/box.html</loc>
     
     <lastmod>2018-04-26T10:13:51.880Z</lastmod>
     
@@ -793,6 +793,13 @@
   </url>
   
   <url>
+    <loc>http://yap.github.io/zh-tw/api/deployer.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.878Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/zh-tw/api/migrator.html</loc>
     
     <lastmod>2018-04-26T10:13:51.878Z</lastmod>
@@ -807,21 +814,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/api/deployer.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.878Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/zh-tw/api/tag.html</loc>
+    <loc>http://yap.github.io/zh-tw/api/router.html</loc>
     
     <lastmod>2018-04-26T10:13:51.877Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/api/router.html</loc>
+    <loc>http://yap.github.io/zh-tw/api/tag.html</loc>
     
     <lastmod>2018-04-26T10:13:51.877Z</lastmod>
     
@@ -863,13 +863,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/tag-plugins.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.871Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/zh-tw/docs/variables.html</loc>
     
     <lastmod>2018-04-26T10:13:51.871Z</lastmod>
@@ -877,9 +870,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/server.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/tag-plugins.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.870Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.871Z</lastmod>
     
   </url>
   
@@ -891,14 +884,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/asset-folders.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/server.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.870Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/zh-tw/docs/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.869Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/themes.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/asset-folders.html</loc>
     
     <lastmod>2018-04-26T10:13:51.869Z</lastmod>
     
@@ -933,14 +933,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/deployment.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/writing.html</loc>
     
     <lastmod>2018-04-26T10:13:51.866Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/writing.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/deployment.html</loc>
     
     <lastmod>2018-04-26T10:13:51.866Z</lastmod>
     
@@ -1003,14 +1003,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/templates.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/front-matter.html</loc>
     
     <lastmod>2018-04-26T10:13:51.859Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-tw/docs/front-matter.html</loc>
+    <loc>http://yap.github.io/zh-tw/docs/templates.html</loc>
     
     <lastmod>2018-04-26T10:13:51.859Z</lastmod>
     
@@ -1045,14 +1045,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/api/processor.html</loc>
+    <loc>http://yap.github.io/zh-cn/api/console.html</loc>
     
     <lastmod>2018-04-26T10:13:51.853Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/api/console.html</loc>
+    <loc>http://yap.github.io/zh-cn/api/processor.html</loc>
     
     <lastmod>2018-04-26T10:13:51.853Z</lastmod>
     
@@ -1073,7 +1073,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/api/rendering.html</loc>
+    <loc>http://yap.github.io/zh-cn/api/index.html</loc>
     
     <lastmod>2018-04-26T10:13:51.851Z</lastmod>
     
@@ -1087,7 +1087,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/api/index.html</loc>
+    <loc>http://yap.github.io/zh-cn/api/rendering.html</loc>
     
     <lastmod>2018-04-26T10:13:51.851Z</lastmod>
     
@@ -1157,7 +1157,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/server.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/tag-plugins.html</loc>
     
     <lastmod>2018-04-26T10:13:51.845Z</lastmod>
     
@@ -1171,7 +1171,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/tag-plugins.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/server.html</loc>
     
     <lastmod>2018-04-26T10:13:51.845Z</lastmod>
     
@@ -1192,14 +1192,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/plugins.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/contributing.html</loc>
     
     <lastmod>2018-04-26T10:13:51.843Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/contributing.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/plugins.html</loc>
     
     <lastmod>2018-04-26T10:13:51.843Z</lastmod>
     
@@ -1227,14 +1227,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/writing.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/migration.html</loc>
     
     <lastmod>2018-04-26T10:13:51.841Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/migration.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/writing.html</loc>
     
     <lastmod>2018-04-26T10:13:51.841Z</lastmod>
     
@@ -1255,14 +1255,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/commands.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/setup.html</loc>
     
     <lastmod>2018-04-26T10:13:51.839Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/setup.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/commands.html</loc>
     
     <lastmod>2018-04-26T10:13:51.839Z</lastmod>
     
@@ -1276,13 +1276,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/data-files.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.838Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/zh-cn/docs/generating.html</loc>
     
     <lastmod>2018-04-26T10:13:51.838Z</lastmod>
@@ -1290,14 +1283,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/front-matter.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/data-files.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.838Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/zh-cn/docs/templates.html</loc>
     
     <lastmod>2018-04-26T10:13:51.837Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/zh-cn/docs/templates.html</loc>
+    <loc>http://yap.github.io/zh-cn/docs/front-matter.html</loc>
     
     <lastmod>2018-04-26T10:13:51.837Z</lastmod>
     
@@ -1332,13 +1332,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/themes.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.832Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/docs/asset-folders.html</loc>
     
     <lastmod>2018-04-26T10:13:51.832Z</lastmod>
@@ -1353,9 +1346,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/plugins.html</loc>
+    <loc>http://yap.github.io/docs/themes.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.831Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.832Z</lastmod>
     
   </url>
   
@@ -1367,14 +1360,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/index.html</loc>
+    <loc>http://yap.github.io/docs/plugins.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/docs/deployment.html</loc>
     
     <lastmod>2018-04-26T10:13:51.830Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/deployment.html</loc>
+    <loc>http://yap.github.io/docs/index.html</loc>
     
     <lastmod>2018-04-26T10:13:51.830Z</lastmod>
     
@@ -1395,6 +1395,13 @@
   </url>
   
   <url>
+    <loc>http://yap.github.io/docs/helpers.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.828Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/docs/permalinks.html</loc>
     
     <lastmod>2018-04-26T10:13:51.828Z</lastmod>
@@ -1409,9 +1416,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/helpers.html</loc>
+    <loc>http://yap.github.io/docs/troubleshooting.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.828Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.827Z</lastmod>
     
   </url>
   
@@ -1423,9 +1430,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/troubleshooting.html</loc>
+    <loc>http://yap.github.io/docs/generating.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.827Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.826Z</lastmod>
     
   </url>
   
@@ -1437,21 +1444,14 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/generating.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.826Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/docs/front-matter.html</loc>
+    <loc>http://yap.github.io/docs/templates.html</loc>
     
     <lastmod>2018-04-26T10:13:51.825Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/templates.html</loc>
+    <loc>http://yap.github.io/docs/front-matter.html</loc>
     
     <lastmod>2018-04-26T10:13:51.825Z</lastmod>
     
@@ -1465,13 +1465,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/api/posts.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.821Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/ru/api/scaffolds.html</loc>
     
     <lastmod>2018-04-26T10:13:51.821Z</lastmod>
@@ -1480,6 +1473,13 @@
   
   <url>
     <loc>http://yap.github.io/ru/api/events.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.821Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/ru/api/posts.html</loc>
     
     <lastmod>2018-04-26T10:13:51.821Z</lastmod>
     
@@ -1500,7 +1500,7 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/api/themes.html</loc>
+    <loc>http://yap.github.io/ru/api/box.html</loc>
     
     <lastmod>2018-04-26T10:13:51.819Z</lastmod>
     
@@ -1514,16 +1514,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/api/box.html</loc>
+    <loc>http://yap.github.io/ru/api/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.819Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/ru/api/rendering.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.818Z</lastmod>
     
   </url>
   
@@ -1535,9 +1528,9 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/api/router.html</loc>
+    <loc>http://yap.github.io/ru/api/rendering.html</loc>
     
-    <lastmod>2018-04-26T10:13:51.817Z</lastmod>
+    <lastmod>2018-04-26T10:13:51.818Z</lastmod>
     
   </url>
   
@@ -1545,6 +1538,20 @@
     <loc>http://yap.github.io/ru/api/migrator.html</loc>
     
     <lastmod>2018-04-26T10:13:51.817Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/ru/api/router.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.817Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/ru/api/tag.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.816Z</lastmod>
     
   </url>
   
@@ -1557,13 +1564,6 @@
   
   <url>
     <loc>http://yap.github.io/ru/api/generator.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.816Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/ru/api/tag.html</loc>
     
     <lastmod>2018-04-26T10:13:51.816Z</lastmod>
     
@@ -1605,13 +1605,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/docs/internationalization.html</loc>
-    
-    <lastmod>2018-04-26T10:13:51.811Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/ru/docs/server.html</loc>
     
     <lastmod>2018-04-26T10:13:51.811Z</lastmod>
@@ -1619,14 +1612,21 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/docs/themes.html</loc>
+    <loc>http://yap.github.io/ru/docs/internationalization.html</loc>
+    
+    <lastmod>2018-04-26T10:13:51.811Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/ru/docs/asset-folders.html</loc>
     
     <lastmod>2018-04-26T10:13:51.810Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yap.github.io/ru/docs/asset-folders.html</loc>
+    <loc>http://yap.github.io/ru/docs/themes.html</loc>
     
     <lastmod>2018-04-26T10:13:51.810Z</lastmod>
     
@@ -1759,6 +1759,13 @@
   </url>
   
   <url>
+    <loc>http://yap.github.io/news/2015/03/05/hexo-3-0-released/</loc>
+    
+    <lastmod>2018-04-26T10:13:51.791Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2018-04-26T10:13:51.791Z</lastmod>
@@ -1767,13 +1774,6 @@
   
   <url>
     <loc>http://yap.github.io/news/2015/02/27/new-documentation-and-registry/</loc>
-    
-    <lastmod>2018-04-26T10:13:51.791Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/news/2015/03/05/hexo-3-0-released/</loc>
     
     <lastmod>2018-04-26T10:13:51.791Z</lastmod>
     
