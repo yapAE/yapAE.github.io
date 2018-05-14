@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yap.github.io/docs/summary.html</loc>
+    
+    <lastmod>2018-05-14T15:01:34.599Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yap.github.io/index.html</loc>
+    
+    <lastmod>2018-05-14T14:58:26.015Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/docs/functions.html</loc>
     
     <lastmod>2018-05-03T06:52:39.099Z</lastmod>
@@ -23,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://yap.github.io/docs/summary.html</loc>
-    
-    <lastmod>2018-05-03T06:09:03.851Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yap.github.io/docs/profile.html</loc>
     
     <lastmod>2018-05-03T06:06:08.118Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://yap.github.io/docs/index.html</loc>
     
     <lastmod>2018-05-03T03:41:51.319Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/index.html</loc>
-    
-    <lastmod>2018-05-03T01:13:52.422Z</lastmod>
     
   </url>
   
