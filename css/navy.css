@@ -209,6 +209,7 @@ body {
 }
 #particles-js {
   position: absolute;
+  max-width: 1200px;
 }
 #logo-wrap {
   -webkit-box-flex: 1;
