@@ -207,6 +207,9 @@ body {
     justify-content: center;
   }
 }
+#particles-js {
+  position: absolute;
+}
 #logo-wrap {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
