@@ -209,7 +209,7 @@ body {
 }
 #particles-js {
   position: absolute;
-  width: 1200px;
+  width: auto;
 }
 #logo-wrap {
   -webkit-box-flex: 1;
