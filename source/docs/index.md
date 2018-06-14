@@ -1,72 +1,20 @@
-title: Documentation
+title: Introduction
 ---
-Welcome to the Hexo documentation. If you encounter any problems when using Hexo, have a look at the  [troubleshooting guide](troubleshooting.html), raise an issue on [GitHub](https://github.com/hexojs/hexo/issues) or start a topic on the [Google Group](https://groups.google.com/group/hexo).
+## What is blockchain?
+### Introduction
+A blockchain is a constantly growing list of records, or blocks, which are connected and
+secured using cryptography. Each record contains timestamps and transaction data which are resistant to modification, thus enabling a blockchain to record transactions between two parties efficiently and in a verifiable and permanent manner. Essentially, it is a distributed and public digital ledger used to record transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network. Blockchains are secure by design; they exhibit high interactive consistency and decentralization. By storing data across its network, the blockchain eliminates the risks that come with data being held centrally. These features make blockchain especially suitable for recording of events, medical
+records, transaction processing, documenting food traceability, chronology of ownership, and so on.
+## Why must blockchain be studied?
+Blockchain technology in the information age represents the critical intersection between the
+financial rails, social networking, and powerful decentralized networks. It is critical for stakeholders to formulate careful legal and business strategies around novel business models as the technology and infrastructure, as well as the corresponding market appetite and regulatory structures, evolve
+rapidly in disparate global markets.
+Blockchain technology is on the move around the world. It is, therefore, essential that we better understand this cutting-edge technology, as it becomes more ubiquitous in our economy. Today, as we consider this far-reaching technology and its potential applications across all sectors, we should have a couple of goals in mind. Blockchain has the potential to become a powerful tool in the hands of citizens and social innovators. In particular, governments can benefit from distributed ledger technologies in terms of data privacy, citizens’ rights, ethic boundaries, digital sovereignty, and community governance. Emerging technologies offer both opportunities and challenges that needs
+to be analyzed from a political and administrative point of view.
+## Why Dubai?
+The Dubai Blockchain Strategy establishes a roadmap for the introduction of blockchain technology for Dubai and the creation of an open platform to share the technology with cities across the globe. It is developed and executed in partnership with the Dubai Future Foundation, the leading independent research organization that will play a pivotal role in shaping the future of Dubai in light of the Dubai Future Agenda adopted by His Highness Sheikh Mohammed bin Rashid Al Maktoum. By 2020, the emirate wants all visa applications, bill payments, and license renewals to be transacted digitally using blockchain.
+To realize our goal of becoming a globally leading institution that understands, creates, and achieves blockchain-based solutions, it is essential that we are located within an environment that nurtures innovation and promotes partnerships and collaborations. Dubai has pledged long-term commitment to building a bright and prosperous future. To achieve this, the emirate has become a global hub that attracts the world’s brightest minds, explores the challenges of the future, and converts them into opportunities for sustainable development. We aim to embody Dubai’s approach in placing future-readiness at the core as we become a leading global research hub that focuses on the future applications of blockchain, generates new knowledge, and prepares current and future
+generations for its uses.
 
-## What is Hexo?
-
-Hexo is a fast, simple and powerful blog framework. You write posts in [Markdown](http://daringfireball.net/projects/markdown/) (or other languages) and Hexo generates static files with a beautiful theme in seconds.
-
-## Installation
-
-It only takes a few minutes to set up Hexo. If you encounter a problem and can't find the solution here, please [submit a GitHub issue](https://github.com/hexojs/hexo/issues) and I'll try to solve it.
-
-{% youtube ARted4RniaU %}
-
-### Requirements
-
-Installing Hexo is quite easy. However, you do need to have a couple of other things installed first:
-
-- [Node.js](http://nodejs.org/)
-- [Git](http://git-scm.com/)
-
-If your computer already has these, congratulations! Just install Hexo with npm:
-
-``` bash
-$ npm install -g hexo-cli
-```
-
-If not, please follow the following instructions to install all the requirements.
-
-{% note warn For Mac users %}
-You may encounter some problems when compiling. Please install Xcode from App Store first. After Xcode is installed, open Xcode and go to **Preferences -> Download -> Command Line Tools -> Install** to install command line tools.
-{% endnote %}
-
-### Install Git
-
-- Windows: Download & install [git](https://git-scm.com/download/win).
-- Mac: Install it with [Homebrew](http://mxcl.github.com/homebrew/), [MacPorts](http://www.macports.org/) or [installer](http://sourceforge.net/projects/git-osx-installer/).
-- Linux (Ubuntu, Debian): `sudo apt-get install git-core`
-- Linux (Fedora, Red Hat, CentOS): `sudo yum install git-core`
-
-### Install Node.js
-
-The best way to install Node.js is with [Node Version Manager](https://github.com/creationix/nvm).
-Thankfully the creators of nvm provide a simple script that automatically installs nvm:
-
-cURL:
-
-``` bash
-$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-```
-
-Wget:
-
-``` bash
-$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-```
-
-Once nvm is installed, restart the terminal and run the following command to install Node.js:
-
-``` bash
-$ nvm install stable
-```
-
-Alternatively, download and run [the installer](http://nodejs.org/).
-
-### Install Hexo
-
-Once all the requirements are installed, you can install Hexo with npm:
-
-``` bash
-$ npm install -g hexo-cli
-```
+## Why include Islamic economics in Blockchain?
+After surveying the research centers around the world, it has become evident that none of them integrated an Islamic economics approach to their scope of work. It is important to note that Islamic economics is unique in nature, and explicitly integrating it within a research approach to blockchain will provide us with new and innovative perspective to the technology. Thus, YAP Centre will be filling a gap in the market, in a world where there is a growing demand for Islamic economics perspectives to be incorporated into the newest of technologies and innovative economic transactions. Moreover, the fact that YAP Centre is situated and established in Dubai, the World Capital of Islamic Economics, inspires us to focus on an Islamic economics perspective, and utilize the passion for Islamic economics that is found in the city. We strongly believe that Dubai should lead the introduction and integration of Islamic economics within the cutting-edge technology of blockchain, into the growing financial as well as industrial sectors. We must also take into consideration the Halal food industry and trade that is thriving in the world today. Explicitly including Islamic economics within our scope will give YAP Centre a leading and unique role in the world of blockchain as well as the sectors related to Islamic finance and industry.

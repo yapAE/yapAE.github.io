@@ -1,5 +1,7 @@
-docs: /docs/
-api: /api/
-news: /news/
-plugins: /plugins/
-themes: /themes/
+about: /docs/summary.html
+research: /docs/
+advising: /advising/
+activities: /advising/
+conference: /docs/
+resources: /docs/
+publications: /projects/

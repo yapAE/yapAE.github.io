@@ -1,4 +1,17 @@
 docs:
+   executive_summary:
+     summary: summary.html
+     introduction: index.html
+     profile: profile.html
+   functions:
+     functions: functions.html
+
+projects:
+   projects:
+     projects: index.html
+     
+
+docs_bak:
   getting_started:
     overview: index.html
     setup: setup.html
