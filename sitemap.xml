@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yap.github.io/projects/index.html</loc>
+    
+    <lastmod>2018-06-14T09:27:41.371Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yap.github.io/index.html</loc>
     
-    <lastmod>2018-06-14T08:53:11.600Z</lastmod>
+    <lastmod>2018-06-14T09:27:16.602Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>http://yap.github.io/news/2018/05/03/best-practices-in-world-class-centers/</loc>
     
     <lastmod>2018-06-14T08:53:11.593Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yap.github.io/projects/index.html</loc>
-    
-    <lastmod>2018-06-14T08:51:49.724Z</lastmod>
     
   </url>
   
