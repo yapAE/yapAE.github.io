@@ -1,12 +1,12 @@
 title: About
 ---
 # YAP Centre For BlockChain Studies, Dubai
-Profile: 
+
 Vision: The YAP Centre For Blockchain Studies(Dubai) is a center of excellence aiming to be the globally leading institution that understands, creates, and realizes blockchain-based solutions in a cross-industry and cross-disciplinary private-public partnership, generating value for current and future generations, exploring the challenges of the future, and converting them into opportunities for sustainable development.
 
 Mission: The YAP Centre For Blockchain Studies(Dubai) is a think tank and research center which investigates implications of blockchain technology for companies and their business models. Besides the development of prototypes, it serves as a platform for managers, start-ups, technology, government,and industry experts to share knowledge and best practices. YAP Centre also provides new research impulses and develops trainings for students and executives. It seeks to position Dubai as the leading knowledge and research hub in the field of blockchain.
 
-FAQ:
+### FAQ:
 
 What is blockchain?
 
@@ -14,7 +14,7 @@ Blockchain is a robust technology that stores identical blocks of information ac
 
 
 
-What is YAP?
+### What is YAP?
 
 
 
