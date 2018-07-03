@@ -23,7 +23,7 @@ deploy:
 highlight:
   enable: true
   line_number: false
-
+disqus_shortname: yapiae
 algolia:
   en:
     api_key: c3d5d4c995b5e0c2ffb5623900279a66
