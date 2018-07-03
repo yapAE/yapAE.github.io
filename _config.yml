@@ -6,7 +6,7 @@ author: Yapi
 language: en
 timezone: UTC
 
-url: http://yap.github.io
+url: http://yapae.github.io
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -24,9 +24,6 @@ highlight:
   enable: true
   line_number: false
 
-disqus_shortname: yapi
-google_analytics: UA-48498357-3
-fb_admins: 100000247608790
 algolia:
   en:
     api_key: c3d5d4c995b5e0c2ffb5623900279a66
