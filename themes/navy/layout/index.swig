@@ -8,8 +8,13 @@
 </header>
 <div id="content-wrap">
   <div class="wrapper">
+<% if (theme.carousel.img){ %>
+    <div class="carousel">
+        <%- image_tag(theme.carousel.img) %>
+    </div>
+<% } %>
+
     <div class="inner">
-      {{ partial('partial/index-img') }}
       {{ page.content }}
 <div class="ui container">
       <div id="intro-get-started-wrap">
