@@ -1,7 +1,7 @@
 - name: company
   description: The entire blockchain ecosystem in one visualization
   link: http://www.mining.com/web/infographic-the-entire-blockchain-ecosystem-in-one-visualization/
-  preview: https://www.yapi.ae
+  preview: http://www.mining.com/web/infographic-the-entire-blockchain-ecosystem-in-one-visualization/
   tags:
     - blockchain
     - visualization
@@ -28,10 +28,10 @@
     - model
     - technology
     - work
-- name: newModel
-  description: The Blockchain is a New Model of Governance
-  link: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
-  preview: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
+- name: world
+  description: IBM Regarded As Global Blockchain Leader
+  link: https://which-50.com/ibm-regarded-global-blockchain-leader/
+  preview: https://which-50.com/ibm-regarded-global-blockchain-leader/
   tags:
     - blockchain
     - governance

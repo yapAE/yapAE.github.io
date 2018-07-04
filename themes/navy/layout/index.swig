@@ -9,8 +9,8 @@
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
+      {{ partial('partial/index-img') }}
       {{ page.content }}
-      {{ partial('partial/theme') }}
 <div class="ui container">
       <div id="intro-get-started-wrap">
         <a href="docs/" id="intro-get-started-link">{{ __('index.get_started') }}</a>
