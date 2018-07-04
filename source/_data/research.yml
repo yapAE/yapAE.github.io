@@ -1,0 +1,57 @@
+- name: Project
+  description: End-to-end blockchain powered remittance services.
+  link: /project/
+  tags:
+    - project
+    - services
+    - include
+    - partial
+    - load
+    - template
+- name: What-is-Blockchain-Technology?
+  description: What is Blockchain Technology?.
+  link: https://blockgeeks.com/guides/what-is-blockchain-technology/
+  tags:
+    - filter
+    - mermaid
+    - chart
+    - diagrams
+- name: Blockchain-Most-Trusted-Crypto-Comp
+  description: Blockchain - Most Trusted Crypto Comp.
+  link: https://www.blockchain.com/
+  tags:
+    - lazyload
+    - images
+    - performance
+    - crypto
+- name: Blockchain-on-AW
+  description: https://aws.amazon.com/blockchain/
+  link: https://aws.amazon.com/blockchain/
+  tags:
+    - official
+    - deployer
+    - amazon
+- name: Blockchain-Connect-Conference-Silicon-Valley-2018
+  description: Blockchain Connect Conference Silicon Valley 2018.
+  link: http://goblockchainconnect.com/
+  tags:
+    - cplayer
+    - music
+    - audio
+- name: Blockchain-Coursera
+  description: Blockchain | Coursera.
+  link: https://www.coursera.org/specializations/blockchain
+  tags:
+    - lazyload
+    - images
+    - performance
+- name: Project
+  description: End-to-end blockchain powered remittance services.
+  link: /project/
+  tags:
+    - project
+    - services
+    - include
+    - partial
+    - load
+    - template
