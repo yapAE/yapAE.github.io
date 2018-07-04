@@ -8,11 +8,6 @@
 </header>
 <div id="content-wrap">
   <div class="wrapper">
-<% if (theme.carousel.img){ %>
-    <div class="carousel">
-        <%- image_tag(theme.carousel.img) %>
-    </div>
-<% } %>
 
     <div class="inner">
       {{ page.content }}
