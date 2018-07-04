@@ -1,6 +1,6 @@
 layout: plugins
 title: Research
-data: plugins
+data: research
 partial: plugin
 comments: false
 ---
