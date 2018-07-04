@@ -1,16 +1,16 @@
-- name: newModel
-  description: The Blockchain is a New Model of Governance
-  link: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
-  preview: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
-  tags:
-    - blockchain
-    - governance
-    - model
-    - technology
-    - work
 - name: company
-  description: The Blockchain is a New Model of Governance
-  link: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
+  description: The entire blockchain ecosystem in one visualization
+  link: http://www.mining.com/web/infographic-the-entire-blockchain-ecosystem-in-one-visualization/
+  preview: https://www.yapi.ae
+  tags:
+    - blockchain
+    - visualization
+    - ecosystem
+    - technology
+    - work
+- name: blockchain
+  description: Blockchain explained
+  link: https://blog.g2crowd.com/blog/trends/cybersecurity/2018-cs/blockchain/
   preview: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
   tags:
     - blockchain
@@ -18,7 +18,7 @@
     - model
     - technology
     - work
-- name: newModel
+- name: model
   description: The Blockchain is a New Model of Governance
   link: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
   preview: https://www.coindesk.com/consensus-algorithm-and-a-new-model-of-governance/
